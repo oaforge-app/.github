@@ -127,7 +127,6 @@ Looking for a place to start? Check issues tagged [`good first issue`](https://g
 
 Built by **OAFORGE TEAM**
 
-[![GitHub](https://img.shields.io/badge/GitHub-rajatparihar-181717?style=flat-square&logo=github)](https://github.com/rajatparihar)
 
 ---
 
